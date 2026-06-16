@@ -7,11 +7,11 @@
 ## Install (Claude Code plugin)
 
 ```
-/plugin marketplace add connerkward/connerkward-skills
-/plugin install ckw-design@connerkward-skills
+/plugin marketplace add connerkward/ckw-design-skill
+/plugin install ckw-design@ckw-design-skill
 ```
 
-Or drop this repo's `SKILL.md` into your agent's skills directory.
+Or install the whole set: `/plugin marketplace add connerkward/connerkward-skills`. Or drop this repo's `SKILL.md` into your agent's skills directory.
 
 ## License
 
