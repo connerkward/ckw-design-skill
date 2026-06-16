@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "ckw-design-skill",
+  "name": "ckw-design",
   "description": "Frontend design skill: direction, design system, visual philosophy.",
   "owner": {
     "name": "Conner K Ward",

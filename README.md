@@ -8,7 +8,7 @@
 
 ```
 /plugin marketplace add connerkward/ckw-design-skill
-/plugin install ckw-design@ckw-design-skill
+/plugin install ckw-design@ckw-design
 ```
 
 Or install the whole set: `/plugin marketplace add connerkward/connerkward-skills`. Or drop this repo's `SKILL.md` into your agent's skills directory.
