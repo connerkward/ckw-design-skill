@@ -1,0 +1,23 @@
+{
+  "name": "ckw-design",
+  "description": "ckw-design is Conner K. Ward's frontend design skill for Claude Code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conner K Ward",
+    "url": "https://github.com/connerkward"
+  },
+  "homepage": "https://github.com/connerkward/ckw-design-skill",
+  "repository": "https://github.com/connerkward/ckw-design-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "claude-code-skill",
+    "agent-skills",
+    "anthropic",
+    "design",
+    "frontend",
+    "design-system",
+    "web-design"
+  ]
+}
