@@ -1,0 +1,14 @@
+# ckw-design
+
+> ckw-design is Conner K. Ward's frontend design skill for Claude Code: direction, design system, and visual philosophy as a loadable skill.
+
+## Install (Claude Code)
+- Add the marketplace: `/plugin marketplace add connerkward/ckw-skills`
+- Install this plugin: `/plugin install ckw-design@connerkward`
+
+## Links
+- Canonical README: https://github.com/connerkward/ckw-design-skill
+- Marketplace (all of Conner K. Ward's skills + MCP servers): https://github.com/connerkward/ckw-skills
+
+## Optional
+- Author: Conner K. Ward — https://github.com/connerkward
