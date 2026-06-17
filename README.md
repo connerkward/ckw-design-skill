@@ -69,3 +69,7 @@ A language model's first design idea is the average of its training data — and
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+🧭 **[ckw-skills](https://github.com/connerkward/ckw-skills)** — part of Conner K. Ward's collection of Claude Code skills & MCP servers.
